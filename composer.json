@@ -1,7 +1,7 @@
 {
     "name": "sunitpanwar/laravel-vuex",
     "type": "project",
-    "description": "A starter of VUEX with Laravel",
+    "description": "A starter of VUEX and Vue Router with Laravel",
     "keywords": [
         "framework",
         "laravel",
